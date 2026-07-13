@@ -239,6 +239,7 @@ Todos aqui têm a função de servir como análise de links, relações e grafos
 - [Sherlockeye](https://app.sherlockeye.io/) — consulta e-mail, telefone, username, domínio, IP, CNPJ e CPF com buscas aprofundadas.
 - [X-OSINT](https://github.com/TermuxHackz/X-osint/) — consulta IP, e-mail, domínios, portas, hosts, exploits, metadados e mais.
 - [Toutatis](https://github.com/megadose/toutatis) — consulta celular, e-mails, usuários do instagram e muito mais.
+- [WebVetted](https://webvetted.com/) - consulta celular, e-mails, usernames, nome e domínios, bom para footprinting de pessoas.
 
 ---
 
