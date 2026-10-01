@@ -269,25 +269,6 @@ Todos aqui têm a função de servir como análise de links, relações e grafos
 
 ---
 
-## Notas práticas de uso
-
-1. **Correlacione, não confie cegamente.**  
-   Username, e-mail, celular e domínio raramente valem isolados. O valor aparece quando você cruza dados.
-
-2. **Nem toda ferramenta serve para Brasil.**  
-   Algumas são melhores para alvo estrangeiro, principalmente as ligadas a people search, telefone e e-mails corporativos.
-
-3. **Freemium não é detalhe, é limitação operacional.**  
-   Em investigação real, limite de consulta, profundidade de resposta e exportação mudam totalmente o valor da ferramenta.
-
-4. **Histórico importa.**  
-   Em domínio, cache, leaks e perfis, saber “como estava antes” muitas vezes vale mais do que o estado atual.
-
-5. **Metodologia vence hype.**  
-   Ferramentas entram e saem. O que permanece é a sequência lógica de recon, validação, pivoting, enriquecimento e documentação.
-
----
-
 ## Contribuições
 
 Contribuições de quaisquer tipos são bem-vindas!
