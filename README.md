@@ -55,6 +55,8 @@
 
 ## Username Enumeration
 
+- [WhatsMyName Apps](https://whatsmynameapps.us/) — busca gratuita de nomes de usuário em sites públicos pelo navegador, sem cadastro; resultados exigem verificação manual.
+
 - [social-analyzer](https://github.com/qeeqbox/social-analyzer) — API, CLI e aplicativo web para localizar e analisar perfis de uma pessoa em mais de 1000 redes sociais e sites.
 - [Namechk](https://namechk.com/) — verifica a existência e disponibilidade de usernames em múltiplas plataformas e redes sociais.
 - [IDCrawl](https://www.idcrawl.com/) — busca por pessoas e usernames com boa utilidade para correlação de perfis.
