@@ -254,6 +254,7 @@ Todos aqui têm a função de servir como análise de links, relações e grafos
 - [Octocsuite](https://github.com/bellingcat/octosuite/) — aumenta a eficiência de OSINT no GitHub.
 - [WayBackPack](https://github.com/jsvine/waybackpack/) — baixa histórico de arquivamentos específicos.
 - [FBI Watchdog](https://github.com/DarkWebInformer/FBI_Watchdog/) — ajuda a configurar monitoramento DNS, onion, WHOIS e outros sinais; é mais técnico.
+- [twtData Trends](https://twtdata.com/twitter-trends/) — arquivo dos trending topics do X (Twitter) por país e por dia; útil para ver o que estava em alta numa data específica.
 
 ---
 
