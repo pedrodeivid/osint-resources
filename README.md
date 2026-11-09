@@ -183,7 +183,7 @@
 ## IPs
 
 - [IPInfo](https://ipinfo.io/) — informações genéricas sobre IP.
-- [AbuseIBPD](https://www.abuseipdb.com/) — denúncias, reputação e blacklists para IPs.
+- [AbuseIPDB](https://www.abuseipdb.com/) — denúncias, reputação e blacklists para IPs.
 - [Zeus Grabber](https://github.com/drcrypterdotru/Zeus-Grabber) — IP reverso, gerador de IP, conversão de domínio para IP, busca no Google, SQLi e integração com Zone-H.
 
 ---
