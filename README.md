@@ -261,9 +261,9 @@ Todos aqui têm a função de servir como análise de links, relações e grafos
 - [WayBackPack](https://github.com/jsvine/waybackpack/) — baixa histórico de arquivamentos específicos.
 - [FBI Watchdog](https://github.com/DarkWebInformer/FBI_Watchdog/) — ajuda a configurar monitoramento DNS, onion, WHOIS e outros sinais; é mais técnico.
 - [osint.ly](https://osint.ly/modules) - contém diversas APIs para diversos serviços além dos populares e integração com LLM para buscas unificadas em OSINT.
-- [Kagi Search](https://kagi.com/) - Combina todos os mecanismos de buscas mais populares para agregar mais resultados.
-- [SearXNG](https://searx.space/) - Site de instâncias para utilizar o navegador de código aberto. Permite consultas unificadas reunidas em uma única página de diversos motores de busca, permite anonimidade TOR, atalhos e mais.
-- [Decodo](https://decodo.com/) - Solução de proxy e scraping web com IA.
+- [Kagi Search](https://kagi.com/) - combina todos os mecanismos de buscas mais populares para agregar mais resultados.
+- [SearXNG](https://searx.space/) - site de instâncias para utilizar o navegador de código aberto. Permite consultas unificadas reunidas em uma única página de diversos motores de busca, permite anonimidade TOR, atalhos e mais.
+- [Decodo](https://decodo.com/) - solução de proxys e scraping web com IA.
 
 ---
 
