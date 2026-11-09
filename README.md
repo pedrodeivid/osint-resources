@@ -86,6 +86,7 @@
 - [GHunt](https://github.com/mxrch/ghunt) — versão open source no estilo do OSINT Industries, focada em pivoting em ecossistema Google.
 - [Holehe](https://github.com/megadose/holehe) — verifica se e-mail está registrado em serviços listados na ferramenta.
 - [email2phonenumber](https://github.com/martinvigo/email2phonenumber) — faz scraping e força bruta em fontes abertas para tentar obter possível número de celular a partir de um e-mail.
+- [mailmeteor](https://mailmeteor.com/tools/reverse-email-lookup) - busca reversa de e-mail, checagem e busca de negócios associados.
 
 ---
 
@@ -206,6 +207,7 @@
 - [E-mail Extrator](https://chromewebstore.google.com/detail/email-extract-email-extra/ejecpjcajdpbjbmlcojcohgenjngflac) — extrai e-mails de sites que você visita.
 - [WayBack Machine](https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak) — acessa sites arquivados a partir da navegação e da própria extensão.
 - [Vortimo](https://chromewebstore.google.com/detail/vortimo-osint-tool/mnakbpdnkedaegeiaoakkjafhoidklnf) — marque/registre páginas, armazene capturas de tela, extraia e enriqueça entidades. Encontra texto em todas as páginas e o destaca.
+- [Ubikron](https://github.com/ubikron) - extensão OSINT diversificada, faz capturas, consulta APIs, permite análise e outras funcionalidades.
 
 ---
 
@@ -240,6 +242,9 @@ Todos aqui têm a função de servir como análise de links, relações e grafos
 - [X-OSINT](https://github.com/TermuxHackz/X-osint/) — consulta IP, e-mail, domínios, portas, hosts, exploits, metadados e mais.
 - [Toutatis](https://github.com/megadose/toutatis) — consulta celular, e-mails, usuários do instagram e muito mais.
 - [WebVetted](https://webvetted.com/) - consulta celular, e-mails, usernames, nome e domínios, bom para footprinting de pessoas.
+- [MaxIntel](https://maxintel.org/) - consulta e-mail, IPs, domínios, nome, username, celular e mais, recente.
+- [Revealer.US](https://revealer.us/) - consulta e-mail, username e vazamentos.
+- [OSINT Search](https://osintsearch.org/) - consulta username e e-mail.
 
 ---
 
@@ -254,6 +259,10 @@ Todos aqui têm a função de servir como análise de links, relações e grafos
 - [Octocsuite](https://github.com/bellingcat/octosuite/) — aumenta a eficiência de OSINT no GitHub.
 - [WayBackPack](https://github.com/jsvine/waybackpack/) — baixa histórico de arquivamentos específicos.
 - [FBI Watchdog](https://github.com/DarkWebInformer/FBI_Watchdog/) — ajuda a configurar monitoramento DNS, onion, WHOIS e outros sinais; é mais técnico.
+- [osint.ly](https://osint.ly/modules) - contém diversas APIs para diversos serviços além dos populares e integração com LLM para buscas unificadas em OSINT.
+- [Kagi Search](https://kagi.com/) - Combina todos os mecanismos de buscas mais populares para agregar mais resultados.
+- [SearXNG](https://searx.space/) - Site de instâncias para utilizar o navegador de código aberto. Permite consultas unificadas reunidas em uma única página de diversos motores de busca, permite anonimidade TOR, atalhos e mais.
+- [Decodo](https://decodo.com/) - Solução de proxy e scraping web com IA.
 
 ---
 
