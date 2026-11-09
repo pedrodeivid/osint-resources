@@ -245,6 +245,7 @@ Todos aqui têm a função de servir como análise de links, relações e grafos
 - [MaxIntel](https://maxintel.org/) - consulta e-mail, IPs, domínios, nome, username, celular e mais, recente.
 - [Revealer.US](https://revealer.us/) - consulta e-mail, username e vazamentos.
 - [OSINT Search](https://osintsearch.org/) - consulta username e e-mail.
+- [Noimosiny](https://noimosiny.com/) - busca de e-mail e username em centenas de módulos. Permite uma busca gratuita.
 
 ---
 
