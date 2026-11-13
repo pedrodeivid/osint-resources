@@ -67,6 +67,8 @@
 - [blackbird](https://github.com/p1ngul1n0/blackbird) — busca em cerca de 600 sites com abordagem prática e objetiva.
 - [tookie-osint](https://github.com/Alfredredbird/tookie-osint) — busca em pelo menos 600 sites, estimativamente; útil como complemento de cobertura.
 - [Sherlock](https://github.com/sherlock-project/sherlock/) - busca em 400 sites.
+- [usernamesearcher](https://usernamesearcher.com/) - busca em mais de 1000 sites.
+- [WhatsMyName.us](https://whatsmynameapp.us/) - outra versão do WhatsMyName.
 
 ---
 
@@ -77,7 +79,6 @@
 - [Epieos](https://epieos.com/) — freemium; lembra o OSINT Industries e ajuda a correlacionar contas, perfis e sinais públicos ligados ao e-mail.
 - [Reverse Contact](https://www.reversecontact.com/) — freemium com consultas grátis; busca empresa ou perfil do LinkedIn associado ao e-mail pesquisado.
 - [Hunter](https://hunter.io/) — focado em e-mails corporativos e de mercado; faz busca reversa, validação, descoberta por domínio e costuma ser melhor para alvos estrangeiros.
-- [InsE](https://chromewebstore.google.com/detail/inse-instagram-email-find/hboikjnbkhkjmllgdcflmbcojbpklcca/) — raspa e-mails públicos de usuários do Instagram e pode extrair seguidores.
 - [EmailHippo](https://tools.emailhippo.com/) — validador de e-mail; bom para triagem e redução de ruído.
 - [Minelead](https://minelead.io/) — semelhante ao Hunter, mas com base de dados diferente, útil para complementar resultados.
 - [Poastal](https://github.com/jakecreps/poastal) — entrega informações úteis e específicas de um e-mail; vale consultar o repositório para entender o escopo exato.
@@ -87,6 +88,7 @@
 - [Holehe](https://github.com/megadose/holehe) — verifica se e-mail está registrado em serviços listados na ferramenta.
 - [email2phonenumber](https://github.com/martinvigo/email2phonenumber) — faz scraping e força bruta em fontes abertas para tentar obter possível número de celular a partir de um e-mail.
 - [mailmeteor](https://mailmeteor.com/tools/reverse-email-lookup) - busca reversa de e-mail, checagem e busca de negócios associados.
+- [OSINT Search](https://osintsearch.org/) - consulta username e e-mail.
 
 ---
 
@@ -101,9 +103,9 @@
 - [phone variant search](https://www.no-nonsense-intel.com/phone-variant-search) — automatiza dorks manuais usando variações de formatação do número.
 - [get contact](https://getcontact.com/) — serviço pago de reconhecimento baseado em apelidos e identificação social do número.
 - [Telegram Finder](https://www.telegram-finder.io/) — verifica se o número aparece no Telegram.
-- [Moriarty](https://github.com/AzizKpln/Moriarty-Project) — busca automatizada com enriquecimento de dados voltado a celular.
 - [GhostTrack](https://github.com/HunxByts/GhostTrack) — coleta informações de operadora e telefonia do celular e ainda traz outras funcionalidades como username e IP.
-- [Eyecon](https://play.google.com/store/apps/details?id=com.eyecon.global) — semelhante ao Truecaller, com base de dados menor.
+- [Eyecon](https://play.google.com/store/apps/details?id=com.eyecon.global) — semelhante ao Truecaller e reverse contact.
+- [Dono do Zap](https://donodozap.com/) - busca registro de um número de WhatsApp.
 
 ---
 
@@ -130,6 +132,9 @@
 - [ViewDNS](https://viewdns.info/) — busca unificada massiva para IPs, WHOIS, históricos e mais.
 - [BGP Toolkit](https://bgp.he.net/) — conjunto de recursos para IPs, ASN, roteamento e contexto de rede.
 - [Censys](https://search.censys.io/) — indexa serviços mais rápido e de forma mais estruturada que muitos buscadores, com foco em certificados SSL/TLS e exposição técnica.
+- [crt.sh](https://crt.sh/) - análise de certificados de transparência de um site.
+- [CertKit Search](https://www.certkit.io/tools/ct-logs/) - Ferramenta voltada para monitoramento de segurança, pesquisa de domínios e alertas de expiração.
+- [CertObserver](https://certobserver.com/ct-search) - agrupa resultados por conjuntos de SAN (Subject Alternative Name) para ajudar a identificar renovações perdidas.
 
 ---
 
@@ -144,10 +149,10 @@
 - [LeakCheck](https://leakcheck.io/) — mostra mais dados que o Have I Been Pwned, como senhas, embora possa ter base menor em certos casos.
 - [H8mail](https://github.com/khast3x/h8mail) — busca unificada em diversos serviços e fontes de leaks.
 - [GhostProject](https://ghostproject.fr/) — mostra senhas vazadas completas, ciphertext ou plaintext.
-- [Breach Vip](https://breach.vip/) — mostra vazamentos cifrados ou não, com foco em vazamentos recentes.
 - [Grayhat Warfare](https://grayhatwarfare.com/) — busca buckets expostos e mal configurados.
 - [LeakScraper](https://github.com/Acceis/leakScraper) — raspa credenciais vazadas; exige um servidor MongoDB funcionando.
 - [OSINTLeak](https://osintleak.com/) — mostra senhas completas e monitora vazamentos.
+- [OathNet](https://oathnet.org/) — cobre e-mail, vazamentos de redes sociais, Discord e IPs.
 
 ---
 
@@ -207,6 +212,7 @@
 - [E-mail Extrator](https://chromewebstore.google.com/detail/email-extract-email-extra/ejecpjcajdpbjbmlcojcohgenjngflac) — extrai e-mails de sites que você visita.
 - [WayBack Machine](https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak) — acessa sites arquivados a partir da navegação e da própria extensão.
 - [Vortimo](https://chromewebstore.google.com/detail/vortimo-osint-tool/mnakbpdnkedaegeiaoakkjafhoidklnf) — marque/registre páginas, armazene capturas de tela, extraia e enriqueça entidades. Encontra texto em todas as páginas e o destaca.
+- [InsE](https://chromewebstore.google.com/detail/inse-instagram-email-find/hboikjnbkhkjmllgdcflmbcojbpklcca/) — raspa e-mails públicos de usuários do Instagram e pode extrair seguidores.
 - [Ubikron](https://github.com/ubikron) - extensão OSINT diversificada, faz capturas, consulta APIs, permite análise e outras funcionalidades.
 
 ---
@@ -216,6 +222,8 @@
 - [Caipora](https://caipora.pro/) — agregador voltado a dados abertos brasileiros.
 - [OSINT Framework](https://osintframework.com/) — clássico e muito usado; agrega diversas fontes e ferramentas OSINT.
 - [CAPIVARA OSINT](https://www.capivaraosint.cc/) — OSINT Framework brasileiro.
+
+---
 
 ## Link Analysis
 
@@ -232,7 +240,6 @@ Todos aqui têm a função de servir como análise de links, relações e grafos
 ## Buscas unificadas
 
 - [PyOsint](https://github.com/syamsv/Pyosint) — busca usernames, subdomínios e links de sites.
-- [OathNet](https://oathnet.org/) — cobre e-mail, vazamentos de redes sociais, Discord, IPs, domínios e outros pivots; o destaque está na capacidade de revelar vazamentos ligados a Discord.
 - [Recon-ng](https://github.com/lanmaster53/recon-ng) — framework com módulos para robotx.txt, SQL, e-mails, usernames, subdomínios e mais.
 - [DetectDee](https://github.com/willin22/DetectDee) — busca por e-mail, username e celular.
 - [Telegram Finder](https://www.telegram-finder.io/) — também pode ser usado em consultas ligadas a LinkedIn, e-mail e telefone.
@@ -246,6 +253,7 @@ Todos aqui têm a função de servir como análise de links, relações e grafos
 - [Revealer.US](https://revealer.us/) - consulta e-mail, username e vazamentos.
 - [OSINT Search](https://osintsearch.org/) - consulta username e e-mail.
 - [Noimosiny](https://noimosiny.com/) - busca de e-mail e username em centenas de módulos. Permite uma busca gratuita.
+- [FingerPrint.to](https://fingerprint.to/) - pesquise em diversas plataformas, e-mails e celulares.
 
 ---
 
@@ -264,6 +272,10 @@ Todos aqui têm a função de servir como análise de links, relações e grafos
 - [Kagi Search](https://kagi.com/) - combina todos os mecanismos de buscas mais populares para agregar mais resultados.
 - [SearXNG](https://searx.space/) - site de instâncias para utilizar o navegador de código aberto. Permite consultas unificadas reunidas em uma única página de diversos motores de busca, permite anonimidade TOR, atalhos e mais.
 - [Decodo](https://decodo.com/) - solução de proxys e scraping web com IA.
+- [CordCat](https://cord.cat/) - análise de breachs, dados e conexões de uma conta de Discord.
+- [Browser.lol](https://browser.lol/pt) - navegador isolado em nuvem.
+- [Browserling](https://www.browserling.com/) - navegador isolado em nuvem, possível simular diferentes ambientes.
+- [Dangerzone](https://dangerzone.rocks/) - permite abrir PDFs potencialmente perigosos de forma segura em ambiente isolado.
 
 ---
 
@@ -274,7 +286,6 @@ Todos aqui têm a função de servir como análise de links, relações e grafos
 - [Resource-2](https://www.osint.industries/project/know-your-enemy-how-osint-collaboration-can-profile-a-predator) - Caso prático de como OSINT pode ser usado para traçar o perfil de um predador.
 - [Resource-3](https://www.secjuice.com/use-osint-to-investigate-a-phishing-scam/) - Como investigar campanhas de phishing usando OSINT. 
 - [OSINT-Brazuca](https://github.com/osintbrazuca/osint-brazuca/) - Projeto extremamente útil que agrega fontes de dados públicos, métodos e ferramentas para OSINT no contexto do Brasil, deem uma força lá!
-
 - [OSINT Radar](https://osintradar.com/) - Diretório online que reúne e organiza ferramentas, fluxos de trabalho e recursos voltados para OSINT. Eficiente e organizado. 
 
 ---
