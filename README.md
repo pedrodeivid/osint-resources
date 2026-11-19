@@ -89,6 +89,7 @@
 - [email2phonenumber](https://github.com/martinvigo/email2phonenumber) — faz scraping e força bruta em fontes abertas para tentar obter possível número de celular a partir de um e-mail.
 - [mailmeteor](https://mailmeteor.com/tools/reverse-email-lookup) - busca reversa de e-mail, checagem e busca de negócios associados.
 - [OSINT Search](https://osintsearch.org/) - consulta username e e-mail.
+- [Behind the Email](https://behindtheemail.com/) - consulta e-mail e correlaciona perfis públicos, fotos e muito mais, 3 consultas gratuitas por dia.
 
 ---
 
@@ -153,6 +154,7 @@
 - [LeakScraper](https://github.com/Acceis/leakScraper) — raspa credenciais vazadas; exige um servidor MongoDB funcionando.
 - [OSINTLeak](https://osintleak.com/) — mostra senhas completas e monitora vazamentos.
 - [OathNet](https://oathnet.org/) — cobre e-mail, vazamentos de redes sociais, Discord e IPs.
+- [Intelligence Security](https://intelligencesecurity.io/) - cobre e-mail, telefone, domínios IPs e mais.
 
 ---
 
@@ -254,6 +256,7 @@ Todos aqui têm a função de servir como análise de links, relações e grafos
 - [OSINT Search](https://osintsearch.org/) - consulta username e e-mail.
 - [Noimosiny](https://noimosiny.com/) - busca de e-mail e username em centenas de módulos. Permite uma busca gratuita.
 - [FingerPrint.to](https://fingerprint.to/) - pesquise em diversas plataformas, e-mails e celulares.
+- [Opsis](https://useopsis.com/) - busca por username ou e-mail contém módulos específicos de buscas, 3 créditos gratuitos diários.
 
 ---
 
@@ -276,6 +279,7 @@ Todos aqui têm a função de servir como análise de links, relações e grafos
 - [Browser.lol](https://browser.lol/pt) - navegador isolado em nuvem.
 - [Browserling](https://www.browserling.com/) - navegador isolado em nuvem, possível simular diferentes ambientes.
 - [Dangerzone](https://dangerzone.rocks/) - permite abrir PDFs potencialmente perigosos de forma segura em ambiente isolado.
+- [NerdyData](https://www.nerdydata.com/) - permite consultar palavras chaves e tecnologias em toda web.
 
 ---
 
