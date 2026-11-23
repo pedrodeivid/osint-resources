@@ -86,10 +86,10 @@
 - [zehef](https://github.com/N0rz3/Zehef) — extrai informações públicas associadas a um e-mail.
 - [GHunt](https://github.com/mxrch/ghunt) — versão open source no estilo do OSINT Industries, focada em pivoting em ecossistema Google.
 - [Holehe](https://github.com/megadose/holehe) — verifica se e-mail está registrado em serviços listados na ferramenta.
-- [email2phonenumber](https://github.com/martinvigo/email2phonenumber) — faz scraping e força bruta em fontes abertas para tentar obter possível número de celular a partir de um e-mail.
 - [mailmeteor](https://mailmeteor.com/tools/reverse-email-lookup) - busca reversa de e-mail, checagem e busca de negócios associados.
 - [OSINT Search](https://osintsearch.org/) - consulta username e e-mail.
 - [Behind the Email](https://behindtheemail.com/) - consulta e-mail e correlaciona perfis públicos, fotos e muito mais, 3 consultas gratuitas por dia.
+- [Emailsherlock](https://www.emailsherlock.com/) - validador rápido e eficiente para e-mails.
 
 ---
 
@@ -99,14 +99,10 @@
 - [WhatsApp-OSINT](https://github.com/kinghacker0/WhatsApp-OSINT) — recupera fotos de perfil, faz análises profundas, coleta informações e reúne outros sinais úteis do WhatsApp.
 - [NumVerify](https://numverify.com/) — API JSON para validação e consulta de números de telefone globais (freemium).
 - [phoneinfoga](https://github.com/sundowndev/phoneinfoga) — busca automatizada em fontes públicas; clássico para triagem de números, quando ainda houver utilidade no cenário atual.
-- [CheatBuster](https://www.cheaterbuster.com/pt/reverse-phone-lookup/) — identifica se o celular está cadastrado em apps de namoro; mais útil para números estrangeiros.
-- [ignorant](https://github.com/megadose/ignorant) — interessante para cenários em que adicionar o celular aos contatos ajuda na investigação.
 - [phone variant search](https://www.no-nonsense-intel.com/phone-variant-search) — automatiza dorks manuais usando variações de formatação do número.
 - [get contact](https://getcontact.com/) — serviço pago de reconhecimento baseado em apelidos e identificação social do número.
 - [Telegram Finder](https://www.telegram-finder.io/) — verifica se o número aparece no Telegram.
-- [GhostTrack](https://github.com/HunxByts/GhostTrack) — coleta informações de operadora e telefonia do celular e ainda traz outras funcionalidades como username e IP.
 - [Eyecon](https://play.google.com/store/apps/details?id=com.eyecon.global) — semelhante ao Truecaller e reverse contact.
-- [Dono do Zap](https://donodozap.com/) - busca registro de um número de WhatsApp.
 
 ---
 
@@ -134,7 +130,7 @@
 - [BGP Toolkit](https://bgp.he.net/) — conjunto de recursos para IPs, ASN, roteamento e contexto de rede.
 - [Censys](https://search.censys.io/) — indexa serviços mais rápido e de forma mais estruturada que muitos buscadores, com foco em certificados SSL/TLS e exposição técnica.
 - [crt.sh](https://crt.sh/) - análise de certificados de transparência de um site.
-- [CertKit Search](https://www.certkit.io/tools/ct-logs/) - Ferramenta voltada para monitoramento de segurança, pesquisa de domínios e alertas de expiração.
+- [CertKit Search](https://www.certkit.io/tools/ct-logs/) - ferramenta voltada para monitoramento de segurança, pesquisa de domínios e alertas de expiração.
 - [CertObserver](https://certobserver.com/ct-search) - agrupa resultados por conjuntos de SAN (Subject Alternative Name) para ajudar a identificar renovações perdidas.
 
 ---
@@ -149,9 +145,7 @@
 - [Breachdirectory](https://breachdirectory.org/) — entrega senhas em formato hash ou criptografadas.
 - [LeakCheck](https://leakcheck.io/) — mostra mais dados que o Have I Been Pwned, como senhas, embora possa ter base menor em certos casos.
 - [H8mail](https://github.com/khast3x/h8mail) — busca unificada em diversos serviços e fontes de leaks.
-- [GhostProject](https://ghostproject.fr/) — mostra senhas vazadas completas, ciphertext ou plaintext.
 - [Grayhat Warfare](https://grayhatwarfare.com/) — busca buckets expostos e mal configurados.
-- [LeakScraper](https://github.com/Acceis/leakScraper) — raspa credenciais vazadas; exige um servidor MongoDB funcionando.
 - [OSINTLeak](https://osintleak.com/) — mostra senhas completas e monitora vazamentos.
 - [OathNet](https://oathnet.org/) — cobre e-mail, vazamentos de redes sociais, Discord e IPs.
 - [Intelligence Security](https://intelligencesecurity.io/) - cobre e-mail, telefone, domínios IPs e mais.
@@ -280,6 +274,7 @@ Todos aqui têm a função de servir como análise de links, relações e grafos
 - [Browserling](https://www.browserling.com/) - navegador isolado em nuvem, possível simular diferentes ambientes.
 - [Dangerzone](https://dangerzone.rocks/) - permite abrir PDFs potencialmente perigosos de forma segura em ambiente isolado.
 - [NerdyData](https://www.nerdydata.com/) - permite consultar palavras chaves e tecnologias em toda web.
+- [Picmany](https://picmany.com/) - visualizar perfis, postagens e reels de contas públicas no Instagram de forma "anônima". 
 
 ---
 
@@ -290,7 +285,9 @@ Todos aqui têm a função de servir como análise de links, relações e grafos
 - [Resource-2](https://www.osint.industries/project/know-your-enemy-how-osint-collaboration-can-profile-a-predator) - Caso prático de como OSINT pode ser usado para traçar o perfil de um predador.
 - [Resource-3](https://www.secjuice.com/use-osint-to-investigate-a-phishing-scam/) - Como investigar campanhas de phishing usando OSINT. 
 - [OSINT-Brazuca](https://github.com/osintbrazuca/osint-brazuca/) - Projeto extremamente útil que agrega fontes de dados públicos, métodos e ferramentas para OSINT no contexto do Brasil, deem uma força lá!
-- [OSINT Radar](https://osintradar.com/) - Diretório online que reúne e organiza ferramentas, fluxos de trabalho e recursos voltados para OSINT. Eficiente e organizado. 
+- [OSINT Radar](https://osintradar.com/) - Diretório online que reúne e organiza ferramentas, fluxos de trabalho e recursos voltados para OSINT. Eficiente e organizado.
+- [Thinkpool](https://think-pol.com/tools) - Ferramentas gratuitas de inteligência para o Reddit.
+- [Kasm Workspaces](https://kasm.com/) - Permite adicionar sistemas operacionais diretamente no navegador em contêineres, isolamento de ambiente efêmeros e mais. 
 
 ---
 
