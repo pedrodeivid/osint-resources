@@ -103,6 +103,9 @@
 - [get contact](https://getcontact.com/) — serviço pago de reconhecimento baseado em apelidos e identificação social do número.
 - [Telegram Finder](https://www.telegram-finder.io/) — verifica se o número aparece no Telegram.
 - [Eyecon](https://play.google.com/store/apps/details?id=com.eyecon.global) — semelhante ao Truecaller e reverse contact.
+- [Sync.me](https://sync.me/) - identificador de chamadas e busca reversa de celular com informações extras de IA.
+- [Tellows](https://www.tellows.com.br/) - busca reversa de números de celular por reputação comunitária.
+- [hlrlookup](https://www.hlrlookup.com/) - validador global e checagem de status para números de celulares. 
 
 ---
 
@@ -140,12 +143,11 @@
 > Aqui, além das ferramentas, o ideal é saber **como procurar**, interpretar contexto, validar amostragem, distinguir dado antigo de dado recente e entender o valor real de cada vazamento.
 
 - [IntelX](https://intelx.io/) — consulta unificada de vazamentos; freemium e muito útil para pivoting.
-- [LeeakPeak](https://leakpeek.com/) — consulta unificada de vazamentos, menos abrangente que o IntelX; freemium.
+- [LeakPeak](https://leakpeek.com/) — consulta unificada de vazamentos, menos abrangente que o IntelX; freemium.
 - [Have I Been Pwned](https://haveibeenpwned.com/) — confere em quais serviços um e-mail vazou e quando.
 - [Breachdirectory](https://breachdirectory.org/) — entrega senhas em formato hash ou criptografadas.
 - [LeakCheck](https://leakcheck.io/) — mostra mais dados que o Have I Been Pwned, como senhas, embora possa ter base menor em certos casos.
 - [H8mail](https://github.com/khast3x/h8mail) — busca unificada em diversos serviços e fontes de leaks.
-- [Grayhat Warfare](https://grayhatwarfare.com/) — busca buckets expostos e mal configurados.
 - [OSINTLeak](https://osintleak.com/) — mostra senhas completas e monitora vazamentos.
 - [OathNet](https://oathnet.org/) — cobre e-mail, vazamentos de redes sociais, Discord e IPs.
 - [Intelligence Security](https://intelligencesecurity.io/) - cobre e-mail, telefone, domínios IPs e mais.
@@ -274,7 +276,9 @@ Todos aqui têm a função de servir como análise de links, relações e grafos
 - [Browserling](https://www.browserling.com/) - navegador isolado em nuvem, possível simular diferentes ambientes.
 - [Dangerzone](https://dangerzone.rocks/) - permite abrir PDFs potencialmente perigosos de forma segura em ambiente isolado.
 - [NerdyData](https://www.nerdydata.com/) - permite consultar palavras chaves e tecnologias em toda web.
-- [Picmany](https://picmany.com/) - visualizar perfis, postagens e reels de contas públicas no Instagram de forma "anônima". 
+- [Picmany](https://picmany.com/) - visualizar perfis, postagens e reels de contas públicas no Instagram de forma "anônima".
+- [Web Resource Ledger](https://webresourceledger.com/) - capture qualquer página da web e obtenha um pacote de evidências assinado e com registro de data e hora.
+- [Grayhat Warfare](https://grayhatwarfare.com/) — busca buckets expostos e mal configurados.
 
 ---
 
@@ -286,7 +290,7 @@ Todos aqui têm a função de servir como análise de links, relações e grafos
 - [Resource-3](https://www.secjuice.com/use-osint-to-investigate-a-phishing-scam/) - Como investigar campanhas de phishing usando OSINT. 
 - [OSINT-Brazuca](https://github.com/osintbrazuca/osint-brazuca/) - Projeto extremamente útil que agrega fontes de dados públicos, métodos e ferramentas para OSINT no contexto do Brasil, deem uma força lá!
 - [OSINT Radar](https://osintradar.com/) - Diretório online que reúne e organiza ferramentas, fluxos de trabalho e recursos voltados para OSINT. Eficiente e organizado.
-- [Thinkpool](https://think-pol.com/tools) - Ferramentas gratuitas de inteligência para o Reddit.
+- [Thinkpol](https://think-pol.com/tools) - Ferramentas gratuitas de inteligência para o Reddit.
 - [Kasm Workspaces](https://kasm.com/) - Permite adicionar sistemas operacionais diretamente no navegador em contêineres, isolamento de ambiente efêmeros e mais. 
 
 ---
